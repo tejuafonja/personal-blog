@@ -6,12 +6,13 @@
 		</h1>
 
 		<p class="author__intro">
-			A simple, hackable & minimalistic starter for Gridsome that uses Netlify CMS for content.
+			
 		</p>
 
 		<p class="author__links">
-			<a href="//twitter.com/suits_at">Follow on Twitter</a>
-			<a href="https://github.com/suits-at/netlifycms-gridsome">GitHub</a>
+			<a href="//tejuafonja.com">About the author</a> | <a href="//twitter.com/tejuafonja" target="_blank">Twitter</a> 
+			| <a href="//linkedin.com/in/tejumadeafonja" target="_blank">LinkedIn</a>
+			<a href="https://github.com/suits-at/netlifycms-gridsome" hidden>GitHub</a>
 		</p>
 
 	</div>

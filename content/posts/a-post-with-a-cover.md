@@ -1,7 +1,7 @@
 ---
 title: A post with a cover image
 date: 2019-01-07T00:00:00.000Z
-published: true
+published: false
 tags:
   - Markdown
   - Cover Image
