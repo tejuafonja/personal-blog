@@ -24,7 +24,7 @@
                     In 2018, I co-founded <a href="http://www.aisaturdayslagos.com/" target="_blank">AI Saturdays Lagos</a>, 
                     an artificial intelligence community based in Lagos, 
                     Nigeria where we offer free-to-attend classes on Data Science, Machine Learning and 
-                    Deep Learning over the period of 12 - 16 consecutive Saturdays through structured study groups.
+                    Deep Learning for about 12 - 16 weeks (classes are held on Saturdays) through structured study groups.
                      Our community is one of the largest AI community in Nigeria 
                      and for the past three (3) years, we have been honored to 
                      produce alumni in various academic institutions and IT industries.
@@ -34,7 +34,7 @@
                 <div>
                     I've always been passionate and fascinated about Artificial Intelligence (AI) for 
                     as long as I can remember and I believe that AI has potential to improve life without 
-                    opening up or exacerbating inequalities but to achieve this, locations in 
+                    opening up or exacerbate inequalities but to achieve this, locations in 
                     which AI is done will have to be widened and ambitious goals to democratize AI education 
                     will need to be set and this would thereby allow for a broader audience to discuss and contribute to 
                     the success of an AI-enabled world. My team and I are focused on bridging this gap of 
