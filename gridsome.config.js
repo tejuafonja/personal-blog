@@ -9,8 +9,8 @@ module.exports = {
   siteDescription: 'Putting thoughts to paper...',
 
   templates: {
-    Post: '/:title',
-    Tag: '/tag/:id'
+    Post: '/xhirot/:title',
+    Tag: '/xhirot/tag/:id'
   },
 
   plugins: [

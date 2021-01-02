@@ -1,6 +1,11 @@
 <template>
     <Layout class="content-box" :show-logo='false'>
-        <h1 class="post-title">Tẹjúmádé Àfọ̀njá</h1>
+        <div class="profile-header">
+          <g-image src="~/assets/images/about-img.jpg" class="profile-img"></g-image>
+          <h2 >Tẹjúmádé Àfọ̀njá</h2>
+        </div>
+
+        
         <div class="intro-box">
             <div>
                 <p>Hi there, I'm Tejumade Afonja and very pleased to e-meet you!</p>
@@ -31,12 +36,11 @@
 
                 <br>
 
-                <p>I pen down my thoughts on <g-link to='/xhirot'>Xhirot</g-link>, you should check it out and if you do like any of my posts,
-                feel free to let me know what you think on Twitter using the hashtag #XhirotByTej. </p>
+                <p>You should check out <g-link to='/xhirot'>Xhirot</g-link>, it's where
+                I dump my thoughts on topics I'm interested in and you can also stay in touch with me via <a href="https://twitter.com/tejuafonja">Twitter</a>
+                and <a href="https://linkedin.com/in/tejumadeafonja">LinkedIn</a>.</p>
                 
-                <p> Let's stay in touch on  <a href="https://twitter.com/tejuafonja">Twitter</a>
-                and <a href="https://linkedin.com/in/tejumadeafonja">LinkedIn</a>.
-                </p>
+        
 
           
                  
@@ -137,4 +141,24 @@ a {
   display: flex;
   flex-wrap: wrap;
 }
+
+.profile-header {
+  display: block;
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 50px;
+}
+
+.profile-img{
+  width: 12em;
+  height: 12em;
+  border-radius: 50%;
+}
+
+.profile-header h2 {
+  margin: 0;
+}
+
 </style>
+
