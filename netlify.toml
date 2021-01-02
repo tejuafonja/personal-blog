@@ -3,3 +3,11 @@
   publish = "dist"
 [build.environment]
   NODE_VERSION = "10"
+
+
+
+[[redirects]]
+  from = "tejuafonja.com"
+  to = "/about"
+  status = 301
+  force = true
