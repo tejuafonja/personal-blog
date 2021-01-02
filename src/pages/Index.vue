@@ -45,8 +45,8 @@
 
                 <p>You can stay in touch with me via <a href="https://twitter.com/tejuafonja">Twitter</a>
                 and <a href="https://linkedin.com/in/tejumadeafonja">LinkedIn</a>. 
-                You can also check out <g-link to='/xhirot'>Xhirot</g-link>, where
-                I intend to start dumping my thoughts on topics I'm interested in.</p>
+                You can also check out <g-link to='/xhirot'>Xhirot</g-link>, it's where
+                I dump my thoughts on topics I'm interested in.</p>
                 
         
 
