@@ -10,7 +10,8 @@
 		</p>
 
 		<p class="author__links">
-			<a href="//tejuafonja.com/about">About the author</a> | <a href="//twitter.com/tejuafonja" target="_blank">Twitter</a> 
+			<g-link to="/">About the author</g-link>
+			| <a href="//twitter.com/tejuafonja" target="_blank">Twitter</a> 
 			| <a href="//linkedin.com/in/tejumadeafonja" target="_blank">LinkedIn</a>
 			<a href="https://github.com/suits-at/netlifycms-gridsome" hidden>GitHub</a>
 		</p>
