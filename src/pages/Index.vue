@@ -11,25 +11,32 @@
                 <p>Hi there, I'm Tejumade Afonja and very pleased to e-meet you!</p>
 
                 <div>
-                    I'm in my 3rd semester of Masters program in Computer Science at Saarland University. I'm a research intern at Vector Institute under the 
-                    supervision of Prof. Nicolas Papernot where I'm researching security, privacy and Machine Learning. 
+                    I'm in my 3rd semester of Masters program at Saarland University, studying Computer Science.
+                    I'm also remotely working with <a href="https://www.papernot.fr/" target="_blank">Prof. Nicolas Papernot</a> 
+                    from the University of Toronto
+                    as a research intern where I'm researching the security of Speaker classification models.
+                  
+                    You can check out <a href="http://www.cleverhans.io/" target="_blank">cleverhans.io</a> 
+                    for more details on my research interests. 
                 </div>
                 <br>
                 <div>
-                    I am one of the founders of AI Saturdays Lagos, an artificial intelligence community in Lagos, 
+                    In 2018, I co-founded <a href="http://www.aisaturdayslagos.com/" target="_blank">AI Saturdays Lagos</a>, 
+                    an artificial intelligence community based in Lagos, 
                     Nigeria where we offer free-to-attend classes on Data Science, Machine Learning and 
-                    Deep Learning for sixteen (16) consecutive Saturdays through structured study groups.
-                     AI Saturdays Lagos is one of the largest AI community in Nigeria 
-                     and in the past two (2) years, we have been honored to 
+                    Deep Learning over the period of 12 - 16 consecutive Saturdays through structured study groups.
+                     Our community is one of the largest AI community in Nigeria 
+                     and for the past three (3) years, we have been honored to 
                      produce alumni in various academic institutions and IT industries.
                 </div>
 
                 <br>
                 <div>
-                    I am passionate about Artificial Intelligence and its potential to improve life without 
-                    opening up or exacerbating inequalities but to do this, I believe that locations in 
+                    I've always been passionate and fascinated about Artificial Intelligence (AI) for 
+                    as long as I can remember and I believe that AI has potential to improve life without 
+                    opening up or exacerbating inequalities but to achieve this, locations in 
                     which AI is done will have to be widened and ambitious goals to democratize AI education 
-                    will need to be set. This would allow for a broader audience to discuss and contribute to 
+                    will need to be set and this would thereby allow for a broader audience to discuss and contribute to 
                     the success of an AI-enabled world. My team and I are focused on bridging this gap of 
                     Artificial Intelligence in Nigeria through our AI Saturdays Classes.
                 </div>
@@ -37,8 +44,9 @@
                 <br>
 
                 <p>You can stay in touch with me via <a href="https://twitter.com/tejuafonja">Twitter</a>
-                and <a href="https://linkedin.com/in/tejumadeafonja">LinkedIn</a>. You can also check out <g-link to='/xhirot'>Xhirot</g-link>, it's where
-                I dump my thoughts on topics I'm interested in.</p>
+                and <a href="https://linkedin.com/in/tejumadeafonja">LinkedIn</a>. 
+                You can also check out <g-link to='/xhirot'>Xhirot</g-link>, where
+                I intend to start dumping my thoughts on topics I'm interested in.</p>
                 
         
 
