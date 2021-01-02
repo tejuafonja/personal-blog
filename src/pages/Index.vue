@@ -36,7 +36,7 @@
                     as long as I can remember and I believe that AI has potential to improve life without 
                     opening up or exacerbate inequalities but to achieve this, locations in 
                     which AI is done will have to be widened and ambitious goals to democratize AI education 
-                    will need to be set and this would thereby allow for a broader audience to discuss and contribute to 
+                    will need to be set. Doing so will allow a broader audience to discuss and contribute to 
                     the success of an AI-enabled world. My team and I are focused on bridging this gap of 
                     Artificial Intelligence in Nigeria through our AI Saturdays Classes.
                 </div>
