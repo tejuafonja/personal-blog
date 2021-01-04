@@ -1,5 +1,5 @@
 ---
-title: "Hello 2021! "
+title: Finally! I can just write
 date: 2021-01-03T21:14:01.967Z
 published: true
 tags:
