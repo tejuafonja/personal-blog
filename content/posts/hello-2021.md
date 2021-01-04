@@ -20,5 +20,4 @@ Xhirot is a little project of mine and I intend to post about different topics t
 
 That said, I hope that 2021 brings you and yours genuine happiness and irresistible joy. I hope that you finally make that leap and let your wings fly, for truly, the world is waiting for your greatness.
 
-With love and everything nice, 
-Tejumade Afonja
+With love and everything nice,
