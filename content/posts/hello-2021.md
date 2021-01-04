@@ -5,10 +5,10 @@ published: true
 tags:
   - introspection
   - development
-description: Hello and welcome to my very first post on my website! Whew! what
-  an achievement -- And finally! I can just write.
+description: Hello and welcome to my very first blog post on my website! Whew!
+  what an achievement -- And finally! I can just write.
 ---
-Hello and welcome to my very first post on my website! Whew! what an achievement -- And finally! I can just write.
+Hello and welcome to my very first blog post on my website! Whew! what an achievement -- And finally! I can just write.
 
 To give you some context, you see I've always fancied myself as a writer but never quite wrote much. I mean, I did put out a few articles in 2017-19 on [medium](https://medium.com/@tejuafonja), but over the past year, as I advance in my studies, I felt alienated about writing (for I thought my knowledge was limited in these subjects) which left me with a couple of unpublished medium article drafts. It took some time for me to understand that what I perceived as my "limited knowledge" could perhaps help or inspire someone out there, that is just kick-starting their learning journey. I could teach what I know. So, I decided to rekindle my love for writing, but this time around, through my personal website. I was inspired by [gatesnotes](https://www.gatesnotes.com/). I did create my personal website (a rather simple webpage that I developed using jekyll) but the blogging component didn't see the light of the day - I would like to share some lessons learned.
 
