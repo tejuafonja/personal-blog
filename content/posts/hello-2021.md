@@ -20,7 +20,7 @@ Fast forward to the end of 2020, with a clearly defined goal in mind, I research
 Xhirot is a little project of mine and I intend to post about different topics that interest me. A way to document my learning journey. I do hope that you find my posts useful in one way or the other. You can use the hashtag #XhirotByTej on Twitter to engage with me about topics discussed. 
 
 
-That said, I hope that 2021 brings you and yours genuine happiness and irresistible joy. I hope that you finally make that leap and let your wings fly, for truly, the world is waiting for your greatness.\
+That said, I hope that 2021 brings you and yours genuine happiness and irresistible joy. I hope that you finally make that leap and let your wings fly, for truly, the world is waiting for your greatness.
 
 
 With love and everything nice, 
