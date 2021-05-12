@@ -32,7 +32,7 @@
 		In 2018, I co-founded <a href="http://www.aisaturdayslagos.com/" target="_blank">AI Saturdays Lagos</a>, 
 		an artificial intelligence community based in Lagos, Nigeria, 
 		where we offer free classes on Data Science, Machine Learning and Deep Learning for about 12 - 16 weeks 
-		(classes are on Saturdays) through structured learning groups. Since the onset of the pandemic, we have moved our classes to online.
+		(classes are on Saturdays) through structured learning groups. Since the onset of the pandemic, we have moved our classes online.
                 </div>
 		
 		<br>
