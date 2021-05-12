@@ -18,11 +18,10 @@
 		
 		<br>
                 <div>
-		Last summer, I had the opportunity to intern with <a href="https://www.papernot.fr/" target="_blank">Prof. Nicolas Papernot</a>
-		at the University of Toronto and Vector Institute, 
-		investigating the security of speaker classification models. I have also recently joined 
-		<a href="https://www.papernot.fr/" target="_blank">Prof. Mario Fritz</a>'s lab as a research assistant, 
-		investigating the effectiveness of synthetic tabular data as a substitute for real data. This 
+		Last summer, I had the opportunity to intern remotely with <a href="https://www.papernot.fr/" target="_blank">Prof. Nicolas Papernot</a>
+		at the University of Toronto and Vector Institute where I
+		investigated the security of speaker classification models, specifically, I worked on generative model extraction
+		of speaker classification models.
 		I also recently joined 
 		<a href="https://cispa.saarland/group/fritz/" target="_blank">Prof. Mario Fritz</a>'s lab as a research assitant investigating the effectiveness
 		of synthetic tabular data as a subsitute for real data. 
