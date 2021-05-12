@@ -8,32 +8,41 @@
         
         <div class="intro-box">
             <div>
-                <p>Hi there, it's Tejumade Afonja - thanks for visiting. Since you're here, 
-		I'd like to invite you to participate in a <a href="bit.ly/accent_influence" target="_blank">short anonymous survey</a> 
-		I'm conducting to understand the impact of accent on learning. It will take about 2-5min and I would really appreciate your opinion. 
+                <div>Oh hello! My name is Tejumade Afonja and I am a master's student at Saarland University. 
+		First of all, thank you for visiting, but while you're here, 
+		I'd like to invite you to participate in a <a href="bit.ly/accent_influence" target="_blank">short anonymous survey</a>  
+		I'm conducting to understand the effects of accent on learning. 
+		It will take about 2-5 minutes to complete, and I would very much appreciate your participation. 
 		If you can also share the survey with your network, that's even more awesome. Thank you so much!
-		</p>
-
+		</div>
+		
+		<br>
                 <div>
-                    I'm in my 3rd semester of Masters program at Saarland University, studying Computer Science.
-                    I'm also remotely working with <a href="https://www.papernot.fr/" target="_blank">Prof. Nicolas Papernot</a> 
-                    from the University of Toronto
-                    as a research intern where I'm researching the security of Speaker classification models.
-                  
-                    You can check out <a href="http://www.cleverhans.io/" target="_blank">cleverhans.io</a> 
-                    for more details on my research interests. 
+		Last summer, I had the opportunity to intern with <a href="https://www.papernot.fr/" target="_blank">Prof. Nicolas Papernot</a>
+		at the University of Toronto and Vector Institute, 
+		investigating the security of speaker classification models. I have also recently joined 
+		<a href="https://www.papernot.fr/" target="_blank">Prof. Mario Fritz</a>'s lab as a research assistant, 
+		investigating the effectiveness of synthetic tabular data as a substitute for real data. This 
+		I also recently joined 
+		<a href="https://cispa.saarland/group/fritz/" target="_blank">Prof. Mario Fritz</a>'s lab as a research assitant investigating the effectiveness
+		of synthetic tabular data as a subsitute for real data. 
                 </div>
+		
                 <br>
                 <div>
-                    In 2018, I co-founded <a href="http://www.aisaturdayslagos.com/" target="_blank">AI Saturdays Lagos</a>, 
-                    an artificial intelligence community based in Lagos, 
-                    Nigeria where we offer free-to-attend classes on Data Science, Machine Learning and 
-                    Deep Learning for about 12 - 16 weeks (classes are held on Saturdays) through structured study groups.
-                     Our community is one of the largest AI community in Nigeria 
-                     and for the past three (3) years, we have been honored to 
-                     produce alumni in various academic institutions and IT industries.
+		In 2018, I co-founded <a href="http://www.aisaturdayslagos.com/" target="_blank">AI Saturdays Lagos</a>, 
+		an artificial intelligence community based in Lagos, Nigeria, 
+		where we offer free classes on Data Science, Machine Learning and Deep Learning for about 12 - 16 weeks 
+		(classes are on Saturdays) through structured learning groups. Since the onset of the pandemic, we have moved our classes to online.
                 </div>
-
+		
+		<br>
+                <div>
+		I also serve as an organizer for Mechanism Design for Social Good (<a href="https://www.md4sg.com/workinggroups/dev.html" target="_blank">MD4SG-Dev</a>) working group and 
+		Machine Learning for the Developing World (<a href="https://sites.google.com/view/ml4d/home?authuser=0" target="_blank">ML4D</a>) NeurIPS workshop.
+                </div>
+		
+		<!--
                 <br>
                 <div>
                     I've always been passionate and fascinated about Artificial Intelligence (AI) for 
@@ -43,19 +52,24 @@
                     will need to be set. Doing so will allow a broader audience to discuss and contribute to 
                     the success of an AI-enabled world. My team and I are focused on bridging this gap of 
                     Artificial Intelligence in Nigeria through our AI Saturdays Classes.
-                </div>
-
-                <br>
-
+                </div> -->
+                
+		<br>
                 <p>You can stay in touch with me via <a href="https://twitter.com/tejuafonja">Twitter</a>
                 and <a href="https://linkedin.com/in/tejumadeafonja">LinkedIn</a>. 
-                You can also check out <g-link to='/xhirot'>Xhirot</g-link>, it's where
-                I dump my thoughts on topics I'm interested in.</p>
+                You can also take a look at my blog <g-link to='/xhirot'>Xhirot</g-link>, it's still in its early stages -:)</p>
                 
-        
-
-          
-                 
+		<!--
+		<div>
+            	<h2>Some link that featured my work</h2>
+		    <ul>
+			<li>[Podcast] <a href="https://anchor.fm/onequestion">The ONE question podcast</a> - I ask some impressive people just 1 question</li>
+			<li>[Udemy course] <a href="https://t.co/1W26wp7ykg?amp=1">A beginner's guide to figma</a> - New to Figma, definitely check it out!</li>
+			<li>[Poetry publication] <a href="https://medium.com/millennial-poets">Millennialpoets</a> - Are you a millennial, do you write or read poetry? Join us</li>
+			<li>[Iwrite] <a href="https://iwrite.today/">Iwrite</a> - I'm working on a website where anyone can take writing challenges. Join the waitlist</li>
+			<li>[A collection of short stories] <a href="">Love in Berlin</a> - I'm currently working on a collection of short stories about love and relationships in Berlin. Check out one of the stories.</li>
+		    </ul>
+        	</div> -->
                 
             </div>
           <!-- <g-image src="~/assets/images/about-img.jpg" width="400" /></div> -->
