@@ -1,7 +1,7 @@
 <template>
     <Layout class="content-box" :show-logo='false'>
         <div class="profile-header">
-          <g-image src="~/assets/images/about-img.jpg" class="profile-img"></g-image>
+          <g-image src="~/assets/images/Tej_profile.jpeg" class="profile-img"></g-image>
           <h2 >Tẹjúmádé Àfọ̀njá</h2>
         </div>
 
