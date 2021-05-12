@@ -8,7 +8,11 @@
         
         <div class="intro-box">
             <div>
-                <p>Hi there, I'm Tejumade Afonja and very pleased to e-meet you!</p>
+                <p>Hi there, it's Tejumade Afonja - thanks for visiting. Since you're here, 
+		I'd like to invite you to participate in a <a href="bit.ly/accent_influence" target="_blank">short anonymous survey</a> 
+		I'm conducting to understand the impact of accent on learning. It will take about 2-5min and I would really appreciate your opinion. 
+		If you can also share the survey with your network, that's even more awesome. Thank you so much!
+		</p>
 
                 <div>
                     I'm in my 3rd semester of Masters program at Saarland University, studying Computer Science.
