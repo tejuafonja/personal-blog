@@ -84,3 +84,5 @@ print(category)
 You can see that this looks exactly like the one-hot encoding in table 1.
 
 That's it for today, folks. If you want to learn more about it, check out the [wiki page](https://www.wikiwand.com/en/One-hot) -:), I hardly understand wiki the first time, but I'm slowly learning that it's the most resourceful material out there, and learning how to read wiki will help you a lot, especially if you're considering graduate school. People here like to cite wiki a lot, understandably. That being said, if you're still having trouble understanding it, feel free to [write me](teju.afonja@aisaturdayslagos.com).
+
+The hashtag is still the same on twitter :P #XhirotByTej
