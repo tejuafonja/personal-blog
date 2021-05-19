@@ -13,7 +13,7 @@ Hmmn! Now the name makes perfect sense, considering that in Machine Learning we 
 
 What is One-Hot Encoding?
 
-In Machine learning and statistics, one-hot encoding is an encoding technique that is often used to deal with categorical data. This is because many machine learning models need their input variables to be numeric, so we transform the categorical variables into numerical variables. Imagine you have some data with a column called "Food Name", this column contains different food name category as described below 
+In Machine learning and statistics, one-hot encoding is an encoding technique that is often used to deal with categorical data. This is because many machine learning models need their input variables to be numeric, so we transform the categorical variables into numerical variables. Imagine you have some data with a column called Food Name, this column contains different food name category as described below 
 
 ```python
 food_name= ["Apple", "Chicken", "Broccoli", "Carrot", "Chicken", "Apple", "Carrot", "Carrot", "Apple"]
@@ -21,8 +21,8 @@ food_name= ["Apple", "Chicken", "Broccoli", "Carrot", "Chicken", "Apple", "Carro
 
 You can turn this into numerical (one-hot encoding) by doing the following transformation
 
-| food_name_Apple | food_name_Chicken | food_name_Broccoli | food_name_Carrot |
-| --------------- | ----------------- | ------------------ | ---------------- |
+| Apple  | Chicken | Broccoli | Carrot |
+| :-----: | :-------:| :------: | :------:|
 | 1               | 0                 | 0                  | 0                |
 | 0               | 1                 | 0                  | 0                |
 | 0               | 0                 | 1                  | 0                |
@@ -33,7 +33,7 @@ You can turn this into numerical (one-hot encoding) by doing the following trans
 | 0               | 0                 | 0                  | 1                |
 | 1               | 0                 | 0                  | 0                |
 
-<p style='text-align: center;'> Table 1: One-hot Encoding Table </p>
+<p style='text-align: center;'> Table 1: One-hot Encoding Table for Food Name </p>
 
 
 What we have done here is that we transformed the data in such a way that we input 1 if the category is what we're currently observing, otherwise, we input 0. 
