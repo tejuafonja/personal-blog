@@ -6,9 +6,8 @@ tags:
   - programming
   - python
   - numpy
-description: >
-  Did you know that one-hot encoding in digital circuitry is often used for
-  indicating the state of a state machine?
+description: Did you know that one-hot encoding in digital circuitry is often
+  used to indicate the state of a state machine?
 ---
 Hmmn! Now the name makes perfect sense, considering that in Machine Learning we often use this term to encode the categorical feature, so we don't really assign any meaning to the individual classes of the feature. Individually, the class category can be thought of as a state which is either on (1) or off (0).
 
