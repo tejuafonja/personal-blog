@@ -32,8 +32,7 @@ You can turn this into numerical (one-hot encoding) by doing the following trans
 | 0               | 0                 | 0                  | 1                |
 | 0               | 0                 | 0                  | 1                |
 | 1               | 0                 | 0                  | 0                |
-
-<p style='text-align: center;'> Table 1: One-hot Encoding Table for Food Name </p>
+Table 1: One-hot Encoding Table for Food Name
 
 
 What we have done here is that we transformed the data in such a way that we input 1 if the category is what we're currently observing, otherwise, we input 0. 
