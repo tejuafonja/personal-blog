@@ -21,7 +21,7 @@ food_name= ["Apple", "Chicken", "Broccoli", "Carrot", "Chicken", "Apple", "Carro
 
 You can turn this into numerical (one-hot encoding) by doing the following transformation
 
-| Apple <> | Chicken <> | Broccoli <>| Carrot <>|
+| Apple <> | Chicken <> | Broccoli <> | Carrot |
 | :-----: | :-------:| :------: | :------:|
 | 1               | 0                 | 0                  | 0                |
 | 0               | 1                 | 0                  | 0                |
