@@ -16,10 +16,11 @@
           I work at CISPA as a research assistant under the supervision of 
           <a href="https://cispa.saarland/group/fritz/" target="_blank">Prof. Mario Fritz</a>  
           where I conduct research on learning generative models 
-          for tabular data. I lead the <a href="https:sautiproject.com" target="_blank">Sauti Project</a>, 
-          work focused on improving accented speech research in Africa and conducted under 
+          for tabular data. I lead the <a href="https://sautiproject.com" target="_blank">Sauti Project</a>, 
+          work focused on improving accented speech research in Africa. 
+          <!-- and conducted under 
           <a href="https:tri-ai.org" target="_blank"> TRI-AI </a>, 
-          a non-profit organization I co-founded.
+          a non-profit organization I co-founded. -->
         </div>
     </div>
 
