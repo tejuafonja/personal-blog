@@ -6,8 +6,12 @@
         <Logo v-if="showLogo" />
       </div>
 
+      <div class="header__left">
+        <NavBar v-if="showNav" />
+      </div>
+
       <div class="header__right">
-        <ToggleTheme />
+        <ToggleTheme v-if="showTheme"/>
       </div>
     </header>
 
@@ -15,8 +19,8 @@
       <slot/>
     </main>
 
-    <footer class="footer">
-      <span class="footer__copyright">Copyright © {{ new Date().getFullYear() }}. </span>
+    <footer class="footer" v-if="showFooter"/>
+      <span class="footer__copyright">Copyright © {{ new Date().getFullYear()}} Tejumade Afonja. All rights reserved.</span>
       <span class="footer__links" hidden>Powered by <a href="//www.suits.at"> SUITS </a></span>
     </footer>
 
@@ -25,15 +29,20 @@
 
 <script>
 import Logo from '~/components/Logo.vue'
+import NavBar from '~/components/NavBar.vue'
 import ToggleTheme from '~/components/ToggleTheme.vue'
 
 export default {
   props: {
-    showLogo: { default: true }
+    showLogo: { default: true },
+    showNav: { default: true},
+    showTheme: { default: true},
+    showFooter: { default: true}
   },
   components: {
     Logo,
-    ToggleTheme
+    ToggleTheme,
+    NavBar
   }
 }
 </script>
@@ -45,8 +54,8 @@ export default {
   align-items: center;
   min-height: var(--header-height);
   padding: 0 calc(var(--space) / 2);
-  top:0;
-  z-index: 10;
+  // top:0;
+  // z-index: 10;
 
   &__left,
   &__right {
